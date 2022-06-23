@@ -1,4 +1,7 @@
-### Hi there 👋
+![myguitar](image/guitar.jpeg "Christopher Dean 2010")
+<center>
+  <font face="courier new">Here is my guitar!</font>
+</center>
 
 <!--
 **xie-zheng/xie-zheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
