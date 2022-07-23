@@ -1,7 +1,10 @@
-> my guitar:
-
-![myguitar](image/guitar.jpeg "Christopher Dean 2010")
-
+```Rust
+fn main() {
+    println!("Hello");
+    println!("From Xie Zheng");
+    // ...
+}
+```
 
 <!--
 **xie-zheng/xie-zheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
